@@ -58,7 +58,7 @@ const Hero = () => {
                     onClick={scrollWithOffset}
                     className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 bg-white/10 dark:text-white hover:bg-white/5"
                   >
-                    16th October 24
+                    16th Oct 24
                   </Link>
                 </div>
               </div>
