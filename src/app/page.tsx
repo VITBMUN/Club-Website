@@ -7,6 +7,7 @@ import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 // import Events from "@/components/Events";
 import Hero from "@/components/Hero";
+import Gallery from "@/components/Gallery";
 // import Pricing from "@/components/Pricing";
 // import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
@@ -29,6 +30,7 @@ export default function Home() {
       <br />
       <br />
       <br />
+      <Gallery />
       {/*<Video />
       <Events />
       <AboutSectionOne />
